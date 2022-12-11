@@ -9,27 +9,23 @@ My first repository
  
 
 ```
-{
-  "S Tier",
-  "Rebecca"  
-}
+S Tier
+  Rebecca 
+
 ```
 
 ```
-{
-  "A Tier",
-  "David",
-  "Maine",
-  "Adam Smasher"
-}
+A Tier
+  David
+  Maine
+  Adam Smasher
 ```
 
 ```
-{
-  "B Tier",
-  "Falco",
-  "Dorio",
-  "Pilar"
-}
+B Tier
+  Falco
+  Dorio
+  Pilar
+
 ```
 ---
